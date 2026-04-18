@@ -2,26 +2,5 @@
   "framework": "nextjs",
   "buildCommand": "next build",
   "devCommand": "next dev",
-  "installCommand": "npm install",
-  "env": {
-    "NEXT_PUBLIC_SUPABASE_URL": "@supabase-url",
-    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "@supabase-anon-key",
-    "SUPABASE_SERVICE_ROLE_KEY": "@supabase-service-role-key",
-    "ANTHROPIC_API_KEY": "@anthropic-api-key",
-    "TWILIO_ACCOUNT_SID": "@twilio-account-sid",
-    "TWILIO_AUTH_TOKEN": "@twilio-auth-token",
-    "TWILIO_WHATSAPP_NUMBER": "@twilio-whatsapp-number",
-    "TWILIO_SMS_NUMBER": "@twilio-sms-number",
-    "RESEND_API_KEY": "@resend-api-key",
-    "IYZICO_API_KEY": "@iyzico-api-key",
-    "IYZICO_SECRET_KEY": "@iyzico-secret-key",
-    "IYZICO_BASE_URL": "@iyzico-base-url",
-    "META_APP_ID": "@meta-app-id",
-    "META_APP_SECRET": "@meta-app-secret",
-    "GOOGLE_ADS_CLIENT_ID": "@google-ads-client-id",
-    "GOOGLE_ADS_CLIENT_SECRET": "@google-ads-client-secret",
-    "GOOGLE_ADS_DEVELOPER_TOKEN": "@google-ads-developer-token",
-    "FAL_API_KEY": "@fal-api-key",
-    "NEXT_PUBLIC_APP_URL": "@app-url"
-  }
+  "installCommand": "npm install"
 }
